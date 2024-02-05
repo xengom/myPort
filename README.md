@@ -1,2 +1,2 @@
 # myPort
-portfolio prototype1
+Practice Next.js
